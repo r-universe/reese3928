@@ -3,13 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "methylGSA"]
-	path = methylGSA
-	url = https://github.com/reese3928/methylgsa
-	shallow = true
-	registered = true
-[submodule "NBAMSeq"]
-	path = NBAMSeq
-	url = https://github.com/reese3928/nbamseq
-	shallow = true
-	registered = true
