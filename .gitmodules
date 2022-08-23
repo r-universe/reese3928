@@ -13,3 +13,8 @@
 	url = https://github.com/reese3928/nbamseq
 	shallow = true
 	registered = true
+[submodule "RNAAgeCalc"]
+	path = RNAAgeCalc
+	url = https://github.com/reese3928/rnaagecalc
+	shallow = true
+	registered = true
