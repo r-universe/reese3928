@@ -8,11 +8,6 @@
 	url = https://github.com/reese3928/methylgsa
 	shallow = true
 	registered = true
-[submodule "NBAMSeq"]
-	path = NBAMSeq
-	url = https://github.com/reese3928/nbamseq
-	shallow = true
-	registered = true
 [submodule "RNAAgeCalc"]
 	path = RNAAgeCalc
 	url = https://github.com/reese3928/rnaagecalc
