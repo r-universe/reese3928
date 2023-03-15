@@ -1,9 +1,9 @@
 [
   {
-    "package": "NBAMSeq"
+    "package": "methylGSA"
   },
   {
-    "package": "methylGSA"
+    "package": "NBAMSeq"
   },
   {
     "package": "RNAAgeCalc"
